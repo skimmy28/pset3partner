@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Sarah Kim"
+author: "Sarah Kim & Maryell Abella"
 format: 
   pdf:
     include-in-header: 
